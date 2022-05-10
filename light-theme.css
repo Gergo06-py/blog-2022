@@ -1,0 +1,30 @@
+body {
+    background-color: #ccefff;
+}
+
+.title {
+    color: #000000;
+}
+
+.content {
+    background-color: #ffffff;
+    border-color: #33bbffaa;
+    color: #000000;
+}
+
+.contacts {
+    background-color: #00000018;
+}
+
+.overlay {
+    border-color: #33bbffaa;
+    background-color: #ffffff;
+}
+
+.github {
+    color: #00cc00;
+}
+
+.github:hover {
+    color: #00ee00;
+}

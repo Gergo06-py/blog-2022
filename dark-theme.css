@@ -1,0 +1,26 @@
+body {
+    background-color: #003d99;
+}
+
+.title {
+    color: #ffffff;
+}
+
+.content {
+    background-color: #001f4d;
+    border-color: #214170;
+    color: #ffffff;
+}
+
+#dark {
+    background-color: #001f4d;
+}
+
+.contacts {
+    background-color: #ffffff18;
+}
+
+.overlay {
+    border-color: #214170;
+    background-color: #001f4d;
+}
