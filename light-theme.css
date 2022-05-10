@@ -20,11 +20,3 @@ body {
     border-color: #33bbffaa;
     background-color: #ffffff;
 }
-
-.github {
-    color: #00cc00;
-}
-
-.github:hover {
-    color: #00ee00;
-}

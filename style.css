@@ -49,3 +49,19 @@
     border: 4px solid;
     border-bottom: none;
 }
+
+.github {
+    color: #00cc00;
+}
+
+.github:hover {
+    color: #00ee00;
+}
+
+.twitter {
+    color: #66ccff;
+}
+
+.twitter:hover {
+    color: #66eeff;
+}
