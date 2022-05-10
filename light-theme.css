@@ -8,15 +8,18 @@ body {
 
 .content {
     background-color: #ffffff;
-    border-color: #33bbffaa;
+    border-color: #66ccff;
     color: #000000;
 }
 
 .contacts {
-    background-color: #00000018;
+    background-color: #f2f2f2;
 }
 
 .overlay {
-    border-color: #33bbffaa;
     background-color: #ffffff;
+}
+
+.overlay-outline {
+    border-color: #66ccff;
 }

@@ -17,10 +17,13 @@ body {
 }
 
 .contacts {
-    background-color: #ffffff18;
+    background-color: #18345e;
 }
 
 .overlay {
-    border-color: #214170;
     background-color: #001f4d;
+}
+
+.overlay-outline {
+    border-color: #214170;
 }
